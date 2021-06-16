@@ -1,2 +1,2 @@
+HERE ARE SOME assignments whichn I did on AdventureWorks DW
 
-here we are going to work on fellowship.ai problem.
